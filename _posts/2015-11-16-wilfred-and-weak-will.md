@@ -3,6 +3,7 @@ layout: post
 title: "Learning Things is Hard"
 modified:
 excerpt: "This is supposed to be an excerpt"
+share: false
 tags: []
 ---
 
