@@ -2,7 +2,7 @@
 
 title:            TheAlex@umich
 locale:           en_US
-url:              //the-alex.github.io
+url:              
 
 
 # Jekyll configuration
@@ -31,7 +31,7 @@ owner:
   bio: "Bit shifter for hire."
   email: thealex@umich.edu
   disqus-shortname: 
-  twitter: #username
+  twitter: the_Chojnacki
   facebook: #username
   google:
     plus: #username
