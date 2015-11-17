@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            TheAlex@umich
 locale:           en_US
-url:              
+url:              //the-alex.github.io
 
 
 # Jekyll configuration
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Alex Chojnacki
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Bit shifter for hire."
+  email: thealex@umich.edu
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: the-alex
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
