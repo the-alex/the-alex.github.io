@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning isn't that hard. It just takes time."
+title: "Programming isn't that hard. It just takes practice."
 excerpt: "A preliminary response to a recent article on the difficulty of learning to program."
 share: false
 tags: []
