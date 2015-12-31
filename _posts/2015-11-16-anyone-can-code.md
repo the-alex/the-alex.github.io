@@ -25,7 +25,7 @@ This is the most charitable interpretation of Hadlow's argument I can muster.
 
 ## On 'Innate Talent'
 
-I'd like to immediately address the idea of their being some innate talent, either passed down from the family through genes or caused by fortunate mutations, that contributes to one's programming skill. There is a study I'd like to cite here, one published in a peer reviewed journal. [_"The Role of Deliberate Practice ..."_](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.169.9712) is an article addressing exactly how "expert performers" acquire their abilities. It concludes with a paragraph that I think is sharply relevant here.
+I'd like to immediately address the idea of their being some innate talent- something in the genes- that contributes to one's programming skill. There is a study I'd like to cite here, one published in a peer reviewed journal. [_"The Role of Deliberate Practice ..."_](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.169.9712) is an article addressing exactly how "expert performers" acquire their abilities. It concludes with a paragraph that I think is sharply relevant here.
 
 > People believe that because expert performance is qualitatively different from normal performance the expert performer must be endowed with characteristics qualitatively different from those of normal adults ... However, we deny that these differences are immutable, that is, due to innate talent ... Instead, we argue that the differences between expert performers and normal adults reflect a life-long period of deliberate effort to improve performance in a specific domain.
 
@@ -86,6 +86,10 @@ No! But it will certainly assist it.
 #### Are services which charge thousands of dollars for a handful of weeks worth of training going to produce excellent junior developers?
 
 Likely, not, but they can certainly get a start working on simple websites. A pursuit which could easily support someone while they continue to learn and further their career.
+
+#### Are those courses the only way to transition into tech?
+
+Nope! High-Quality, free resources exist on the Internet. A particularly motivated student will extract a much greater value from these free resources.
 
 ### References
 _"The Role of Deliberate Practice in the Acquisition of Expert Performance"_ K. Anders Ericsson, Ralf Th. Krampe, and Clemens Tesch-Romer, _Psychological Review_, 1993 (Vol. 100. No. 3, 363-406)
