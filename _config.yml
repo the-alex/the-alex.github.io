@@ -35,6 +35,7 @@ owner:
   facebook: #username
   google:
     plus: #username
+    # This is for GA on alexwrites...@gmail.com 
     analytics: UA-72821193-1
     verify: 
     ad-client: 
