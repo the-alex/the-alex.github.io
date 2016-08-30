@@ -12,3 +12,4 @@ I'm the Communications Chair of the Michigan Data Science Team [(MDST)](mdst.eec
 
 I'm primarily interested in machine learning and statistical analysis but, since my original plan was to go into full stack web development, I'm currently much better at [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) than [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)- but hey, I'm learning every day.
 
+Here's my [resume]({{ site.url  }}/assets/resume/thealex-resume.pdf)!
