@@ -11,20 +11,22 @@ on my undergraduate degree at the University of Michigan. I am majoring in
 Computer Science and minoring in anything else they'll allow me to.
 
 I'm the Communications Chair of the Michigan Data Science Team
-[(MDST)](mdst.eecs.umich.edu), as well as a board member of the Michigan
-Student Artificial Intelligence Lab [(MSAIL)](msail.org), both of which were
-founded in Fall 2015. I occasionally present for the Machine Learning Reading
-Group section of MSAIL, so be sure to come to those meetings!
+[(MDST)](midas.umich.edu/mdst), a club which competes in data science
+prediction challenges and performs pro-bono data anlysis for good causes. As
+a completely volunteer organization, we have worked with the Cities of Flint
+and Detroit with municipal data projects and the University Musical Society
+with their raw ticket sales data, through which we have published several
+papers.
 
-I'm primarily interested in machine learning and statistical analysis but,
-since my original plan was to go into full stack web development, I'm currently
-much better at
-[HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) than
-[MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)- but hey, I'm
-learning every day.
+In the past, I have been a board member of [MSAIL](msail.org), organizing
+weekly academic reading group meetings on everything from backpropagation to
+monte carlo methods.
+
+I am also an Instructor's Assistant (TA) for [EECS 398: Computing for Computer
+Scientists](c4cs.github.io), a course which aimes to take recent undergraduates
+in computer science and turn them into command line wizards.
 
 My Erdős number is 4, thanks to Jacob Abernethy (and his colleague Manfred K.
 Warmuth, and his colleague Shlomo Moran, and of course, Paul Erdős).
-
 
 Here's my [resume]({{ site.url  }}/assets/resume/thealex-resume.pdf)!
