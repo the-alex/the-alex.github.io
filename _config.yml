@@ -24,7 +24,6 @@ kramdown:
   enable_coderay: false
   input: GFM
 
-future: true
 
 # Site owner
 owner:
