@@ -21,8 +21,8 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: false
-  #input: GFM
+  enable_coderay: true
+  input: GFM
 
 
 # Site owner
