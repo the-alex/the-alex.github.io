@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ten-Thousand Hours of Code"
-excerpt: "Programming isn't that hard. It just takes practice."
+excerpt: "Don't give up, it just takes practice."
 share: false
 modified: 2015-12-30
 tags: []
