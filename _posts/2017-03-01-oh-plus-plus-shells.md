@@ -4,7 +4,7 @@ title: "OH++ Shells"
 excerpt: "Notes from OfficeHours++: Tips and tricks from EECS: 398
 Computing for Computer Scientists. This week, we're talking about shells!"
 share: false
-modified: 2015-12-30
+modified: 2017-02-02
 tags: []
 ---
 
