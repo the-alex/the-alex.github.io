@@ -1,5 +1,5 @@
 ---
 layout: home
-excerpt: "Pergetory for Alex's thoughts."
+excerpt: "Purgetory for Alex's thoughts."
 tags: []
 ---
