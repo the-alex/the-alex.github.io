@@ -10,7 +10,7 @@ share: false
 I completed my undergraduate degree in Computer Science at the University of
 Michigan.
 
-I currently work as a research assistant for Dr. Eric M. Schwartz, researching
+I used to work as a research assistant for Dr. Eric M. Schwartz, researching
 methods for optimizing the lead service line replacement effort in the City of
 Flint. I also personally administrate a web application used by city officials
 every day to track and manage the service line replacement effort.
@@ -31,6 +31,10 @@ I co-founded a new class at UM called [EECS 398: Computing for Computer
 Scientists](https://c4cs.github.io), a course which aims to take recent
 undergraduates in computer science and turn them into command line wizards.
 I TA'd the course for my last three semesters.
+
+These days I shift urban bits in NYC for utility companies looking to level up
+their maintenance and asset intervention workflows using exploratory analysis
+and predictive modeling at [Urbint](https://urbint.com).
 
 My Erdős number is 4, thanks to Jacob Abernethy (and his colleague Manfred K.
 Warmuth, and his colleague Shlomo Moran, and of course, Paul Erdős).
