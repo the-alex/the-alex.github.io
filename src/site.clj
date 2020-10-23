@@ -24,4 +24,4 @@
                  [:h2 {:class "text-lg"} "Alex Chojnacki"]
                  [:div {:class "text-blue-500 p-1"} "Machine Learning Engineer"]
                  [:div {:class "text-gray-500 font-mono p-1"} "{my first name}writesprograms@gmail.com"]
-                 [:div {:class "text-center align-bottom"} [:i {:class "text-gray-500"} "Help with what? ... I'm gonna need you to be more specific."]]]])})
+                 [:div {:class "text-center align-bottom"} [:i {:class "text-gray-500"} "I'm gonna need you to be more specific."]]]])})
