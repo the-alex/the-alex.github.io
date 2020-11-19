@@ -1,0 +1,5 @@
+{:deps
+ {cljfmt/cljfmt {:mvn/version "0.6.4"}
+  teknql/statik {:local/root "../statik"}
+  clj-time/clj-time {:mvn/version "0.15.2"}}
+ :paths ["src"]}
