@@ -22,12 +22,13 @@
   {:path "/index.html"
    :type :html
    :data (page "Sur moi"
-               [:div {:class "flex:center items-center align-middle bg-white rounded-lg p-6"}
-                [:div {:class "text-center p-12"}
+               [:div {:class "mx-auto max-w-lg md:max-w-lg"}
+                [:div {:class "rounded-md text-center p-12"}
                  [:h1 {:class "text-xl"} "Alex Chojnacki"]
-                 [:div {:class "text-gray-500 p-4"}
+                 [:div {:class "text-gray-500"}
                   [:p "Machine Learning Engineer"]
                   [:p {:class "text-gray-500 font-mono"} "{my first name}writesprograms@gmail.com"]]
+                 [:div {:class "text-lg p-2 text-justify font-serif"} (:content about-post)]
                  [:div {:class "text-center align-bottom"}
                   [:a {:href "https://github.com/the-alex"}
                    [:i {:class "text-blue-500 hover:bg-blue-100"
