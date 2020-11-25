@@ -1,8 +1,9 @@
 #+TITLE: Sur Moi
 
-* I've done a few things I'm proud of.
+I've done a few things I'm proud of.
 
-- Built a web application for the City of Flint to keep records of lead service line replacements, which led to published research, and the founding of [[https://www.blueconduit.com/][/BlueConduit/]].
-- Part of the early engineering team at [[https://urbint.com/][Urbint]], which grew from around 20 heads to 70 during the few years I was there. What a ride.
+I built a web application for the City of Flint to keep records of lead service line replacements, which led to published research, and the founding of [[https://www.blueconduit.com/][/BlueConduit/]].
+
+I was an early member of the engineering team at [[https://urbint.com/][Urbint]], which grew substantially during the few years I was there.
 
 These days I'm taking it easy, working part time, reading and learning more musical instruments and styles.

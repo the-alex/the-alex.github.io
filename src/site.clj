@@ -1,16 +1,6 @@
 (def site-name "AC")
 
-(def posts
-  (map parse-org ["src/posts/about.org"]))
-
-(comment
-  (map parse-org ["posts/about.org"]))
-
-
-(def-asset global-style
-  {:path "/css/global.css"
-   :type :css
-   :data [:body {:background-color :cyan}]})
+(def about-post (parse-org "src/posts/about.org"))
 
 (defn page
   [title content]
@@ -24,32 +14,26 @@
 
 (defn post-content
   [{:keys [title content]}]
-  [:div {:class "lg:container lg:mx-auto bg-gray-200"}
-   [:h2 {:class "text-lg"} "Title: " title]
-   [:div content]])
-
-(def-asset blog-page
-  {:path "/blog/index.html"
-   :type :html
-   :data (page "de Moi"
-               [:div {:class "flex:center items-center align-middle bg-white rounded-lg p-6"}
-                [:div {:class "text-center"}
-                 [:h2 {:class "text-lg p-4"} "Alex Chojnacki's Blog"]
-                 [:div {:class "lg:container lg:mx-auto bg-gray-200"}
-                  [:div {:class "text-blue-500 p-4"} "Yes, this is a blog."]
-                  (for [pc posts] (post-content pc))]]])})
+  [:h1 {:class "text-lg bg-red-200 p-6"} [:i title]
+   [:div {:class "lg:container p-6 lg:mx-auto bg-gray-200"}
+    [:div content]]])
 
 (def-asset home-page
   {:path "/index.html"
    :type :html
-   :data (page "Sur Moi"
+   :data (page "Sur moi"
                [:div {:class "flex:center items-center align-middle bg-white rounded-lg p-6"}
-                [:div {:class "text-center"}
-                 [:h2 {:class "text-lg"} "about Alex Chojnacki"]
-                 [:div {:class "text-blue-500 p-1"} "Machine Learning Engineer"]
-                 [:div {:class "text-gray-500 font-mono p-1"} "{my first name}writesprograms@gmail.com"]
-                 [:a {:href "https://github.com/the-alex"}
-                  [:div {:class "text-center align-bottom"}
-                   [:i {:class "text-gray-500"} "I can help, but you'll need to be specific."]]]
-                 [:a {:href (asset-path blog-page)}
-                  [:i {:class "text-gray-500"} "Blog Link"]]]])})
+                [:div {:class "text-center p-12"}
+                 [:h1 {:class "text-xl"} "Alex Chojnacki"]
+                 [:div {:class "text-gray-500 p-4"}
+                  [:p "Machine Learning Engineer"]
+                  [:p {:class "text-gray-500 font-mono"} "{my first name}writesprograms@gmail.com"]]
+                 [:div {:class "text-center align-bottom"}
+                  [:a {:href "https://github.com/the-alex"}
+                   [:i {:class "text-blue-500 hover:bg-blue-100"
+                        :style {:box-shadow "inset 0 -0.125em 0 0 #fff, inset 0 -0.375em 0 0 rgba(219, 234, 254, 0.4);"}}
+                    "I can help, but you'll need to be specific."]]]]])})
+
+(comment
+  (require '[clj-org.org :as org])
+  (org/parse-org (slurp "./src/posts/about.org")))
