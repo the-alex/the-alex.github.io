@@ -10,7 +10,7 @@
     [:link {:rel  "stylesheet"
             :type "text/css"
             :href "https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"}]]
-   [:body content]])
+   [:body {:class "sm:container sm:mx-auto sm:max-w-sm"} content]])
 
 (defn post-content
   [{:keys [title content]}]
@@ -22,8 +22,8 @@
   {:path "/index.html"
    :type :html
    :data (page "Sur moi"
-               [:div {:class "mx-auto max-w-lg md:max-w-lg"}
-                [:div {:class "rounded-md text-center p-12"}
+               [:div {:class "mx-auto"}
+                [:div {:class "text-center"}
                  [:h1 {:class "text-xl"} "Alex Chojnacki"]
                  [:div {:class "text-gray-500"}
                   [:p "Machine Learning Engineer"]
