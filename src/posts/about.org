@@ -4,8 +4,8 @@ I built a web application for the City of Flint to keep records of lead service 
 
 <br/>
 
-I was an early member of the engineering team at [[https://urbint.com/][/Urbint/]], which grew substantially during the few years I was there.
+I was an early member of the engineering team at [[https://urbint.com/][/Urbint/]], which grew substantially during the few years I was there. We applied machine learning methods to problems in utility infrastructure.
 
 <br/>
 
-These days I'm taking it easy, working part time, reading and learning more musical instruments and styles.
+These days I'm taking it easy, working part time, reading and learning more musical instruments.
