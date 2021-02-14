@@ -10,7 +10,7 @@
     [:link {:rel  "stylesheet"
             :type "text/css"
             :href "https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"}]]
-   [:body {:class "sm:container sm:mx-auto sm:max-w-sm"} content]])
+   [:body content]])
 
 (defn post-content
   [{:keys [title content]}]
@@ -18,17 +18,18 @@
    [:div {:class "lg:container p-6 lg:mx-auto bg-gray-200"}
     [:div content]]])
 
+
 (def-asset home-page
   {:path "/index.html"
    :type :html
    :data (page "Sur moi"
-               [:div {:class "mx-auto"}
+               [:div {:class "mx-auto sm:container sm:max-w-sm"}
                 [:div {:class "text-center"}
                  [:h1 {:class "text-xl"} "Alex Chojnacki"]
                  [:div {:class "text-gray-500"}
                   [:p "Machine Learning Engineer"]
                   [:p {:class "text-gray-500 font-mono"} "{my first name}writesprograms@gmail.com"]]
-                 [:div {:class "text-lg p-2 text-justify font-serif"} (:content about-post)]
+                 [:div {:class "text-lg p-2 text-justify font-sans-serif"} (:content about-post)]
                  [:div {:class "text-center align-bottom"}
                   [:a {:href "https://github.com/the-alex"}
                    [:i {:class "text-blue-500 hover:bg-blue-100"

@@ -1,6 +1,11 @@
-#+TITLE: Sur Moi
+#+TITLE: On Me
 
-I built a web application for the City of Flint to keep records of lead service line replacements, which led to published research, and the founding of [[https://www.blueconduit.com/][/BlueConduit/]].
+
+I've been writing software professionally for a few years now, mostly in the context of applying modern machine learning and statistical methods to problems in utility infrastructure.
+
+<br/>
+
+I worked under professors at the University of Michigan, analyzing the Flint Water Crisis through public survey programs managed by the /Flint Fast Start/ team. I built a web application for the City of Flint to keep records of lead service line replacements, which led to published research, and the founding of [[https://www.blueconduit.com/][/BlueConduit/]].
 
 <br/>
 
@@ -8,4 +13,4 @@ I was an early member of the engineering team at [[https://urbint.com/][/Urbint/
 
 <br/>
 
-These days I'm taking it easy, working part time, reading and learning more musical instruments.
+I am currently bootstrapping engineering at [[https://www.blueconduit.com/][/BlueConduit/]], building the initial infrastructure to automate core data science and machine learning processes. If you are interested in building an equitable firm with a strong social mission, please make contact. We're always looking for good people.
